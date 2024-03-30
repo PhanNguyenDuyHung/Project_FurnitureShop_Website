@@ -1,0 +1,330 @@
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+D:\Document\nam 4\ki 1\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.ObjectPool.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Memory.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Memory.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+C:\Users\admin\Desktop\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Newtonsoft.Json.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Memory.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Numerics.Vectors.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Text.Encodings.Web.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+D:\Hoc\kt\moinhat\moinhat\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authentication.Core.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Authorization.Policy.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Mvc.Core.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.ResponseCaching.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.Routing.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.AspNetCore.WebUtilities.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Hosting.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.ObjectPool.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Microsoft.Net.Http.Headers.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\Newtonsoft.Json.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Memory.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Numerics.Vectors.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Text.Encodings.Web.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+D:\Phattrien\moi\QL_NoiThat (1)\QL_NoiThat (1)\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+C:\Users\admin\Documents\GitHub\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+C:\Users\admin\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+C:\Users\Money\OneDrive\Desktop\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+C:\Users\admin\Downloads\hihi\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe.config
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.exe
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\QL_NoiThat.pdb
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Buffers.dll
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.AssemblyReference.cache
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_AddEntry.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Customer.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Entry.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Login.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Main.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Order.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_PhieuNhapHang.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Product.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Provider.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.GUI.frm_Statistical.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.Properties.Resources.resources
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.GenerateResource.cache
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CoreCompileInputs.cache
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.csproj.CopyComplete
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.exe
+D:\CNPMNC\Final\Project_FurnitureShop_PM\Project_FurnitureShop_PM\QL_NoiThat\QL_NoiThat\obj\Debug\QL_NoiThat.pdb

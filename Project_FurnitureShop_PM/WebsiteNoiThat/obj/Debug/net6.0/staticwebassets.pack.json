@@ -1,0 +1,565 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebsiteNoiThat.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebsiteNoiThat.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\0dede5311f00ca5e9311.jpg",
+      "PackagePath": "staticwebassets\\Images\\0dede5311f00ca5e9311.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\BarChair.jpg",
+      "PackagePath": "staticwebassets\\Images\\BarChair.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\ConsoleTable.png",
+      "PackagePath": "staticwebassets\\Images\\ConsoleTable.png"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\advert.mp4",
+      "PackagePath": "staticwebassets\\Images\\advert.mp4"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\armchair.jpg",
+      "PackagePath": "staticwebassets\\Images\\armchair.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\beds.jpg",
+      "PackagePath": "staticwebassets\\Images\\beds.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\decoration.mp4",
+      "PackagePath": "staticwebassets\\Images\\decoration.mp4"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\lamps.jpg",
+      "PackagePath": "staticwebassets\\Images\\lamps.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\logon1.jpeg",
+      "PackagePath": "staticwebassets\\Images\\logon1.jpeg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\logoo.png",
+      "PackagePath": "staticwebassets\\Images\\logoo.png"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\outdoor.jpg",
+      "PackagePath": "staticwebassets\\Images\\outdoor.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\pexels-photo-10410095.jpeg",
+      "PackagePath": "staticwebassets\\Images\\pexels-photo-10410095.jpeg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\111",
+      "PackagePath": "staticwebassets\\Images\\product-image"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Ban An Melamite 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Ban An Melamite 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Ban An Melamite 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Ban An Melamite 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Ban An Melamite 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Ban An Melamite 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Ban An Peak 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Ban An Peak 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Ban An Peak 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Ban An Peak 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Ban An Peak 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Ban An Peak 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Den ban Fotellina 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Den ban Fotellina 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Den ban Fotellina 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Den ban Fotellina 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Den ban Fotellina 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Den ban Fotellina 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Dong ho quat 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Dong ho quat 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Dong ho quat 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Dong ho quat 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Dong ho quat 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Dong ho quat 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Giuong Iris 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Giuong Iris 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Giuong Iris 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Giuong Iris 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Guong Bords 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Guong Bords 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Guong Bords 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Guong Bords 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Guong Bords 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Guong Bords 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Guong Goteborg 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Guong Goteborg 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Guong Goteborg 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Guong Goteborg 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Sofa Bridge 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Sofa Bridge 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Sofa Bridge 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Sofa Bridge 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Sofa Bridge 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Sofa Bridge 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Sofa Coastal 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Sofa Coastal 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Sofa Coastal 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Sofa Coastal 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Sofa Coastal.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Sofa Coastal.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\TRANH FLOWER 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\TRANH FLOWER 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\TRANH FLOWER 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\TRANH FLOWER 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\TRANH FLOWER 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\TRANH FLOWER 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tham Long 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tham Long 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tham Long 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tham Long 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tranh Abs 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tranh Abs 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tranh Abs 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tranh Abs 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tranh Abs 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tranh Abs 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu Ly Jazz 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu Ly Jazz 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu Ly Jazz 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu Ly Jazz 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu Ly Jazz 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu Ly Jazz 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu Ly Universal 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu Ly Universal 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu Ly Universal 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu Ly Universal 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu Ly Universal 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu Ly Universal 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu TV Elegance 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu TV Elegance 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu TV Elegance 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu TV Elegance 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\Tu TV Elegance 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\Tu TV Elegance 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\chan nen iris 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\chan nen iris 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\chan nen iris 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\chan nen iris 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\chan nen iris 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\chan nen iris 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\den ban Osiris 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\den ban Osiris 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\den ban Osiris 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\den ban Osiris 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\den ban Osiris 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\den ban Osiris 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\dong ho terra 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\dong ho terra 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\dong ho terra 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\dong ho terra 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\dong ho terra 3.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\dong ho terra 3.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\giuong skagen 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\giuong skagen 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\giuong skagen 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\giuong skagen 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\ke sach cico 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\ke sach cico 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\ke sach cico 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\ke sach cico 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\ke sach glamour 1.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\ke sach glamour 1.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\product-image\\ke sach glamour 2.jpg",
+      "PackagePath": "staticwebassets\\Images\\product-image\\ke sach glamour 2.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\sofa.jpg",
+      "PackagePath": "staticwebassets\\Images\\sofa.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\Images\\televison.jpg",
+      "PackagePath": "staticwebassets\\Images\\televison.jpg"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\cart-style.css",
+      "PackagePath": "staticwebassets\\css\\cart-style.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\js\\cart-script.js",
+      "PackagePath": "staticwebassets\\js\\cart-script.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\CNPMNC\\Final\\Project_FurnitureShop_PM\\Project_FurnitureShop_PM\\WebsiteNoiThat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebsiteNoiThat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebsiteNoiThat.props",
+      "PackagePath": "build\\WebsiteNoiThat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebsiteNoiThat.props",
+      "PackagePath": "buildMultiTargeting\\WebsiteNoiThat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebsiteNoiThat.props",
+      "PackagePath": "buildTransitive\\WebsiteNoiThat.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

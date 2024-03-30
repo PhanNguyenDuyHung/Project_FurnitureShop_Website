@@ -1,0 +1,358 @@
+﻿@model IEnumerable<WebsiteNoiThat.Models.SanPham>
+@{
+    var sessionCustomer = ViewContext.HttpContext.Session.GetString("IDCustomer");
+    var sessionCart = ViewContext.HttpContext.Session.GetString("IDCart");
+}
+
+
+<style>
+
+
+ .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px;
+    display: flex;
+    overflow-x: hidden;
+    overflow-y: auto;
+    height: 100vh; /* hoặc sử dụng min-height: 100vh; */
+}
+    /* Image Slider */
+    .slider-wrapper {
+        position: relative;
+        max-width: 30rem;
+        margin: 0 auto;
+    }
+
+    .slider {
+        display: flex;
+        overflow: hidden;
+        border-radius: 0.5rem;
+    }
+
+        .slider img {
+            flex: 1 0 100%;
+            object-fit: fill;
+        }
+
+    .slider-nav {
+        display: flex;
+        column-gap: 1rem;
+        position: absolute;
+        bottom: 1.25rem;
+        left: 50%;
+        transform: translateX(50%);
+        z-index: 1;
+    }
+
+        .slider-nav a {
+            width: 0.5rem;
+            height: 0.5rem;
+            border-radius: 50%;
+            background-color: #D2BE76;
+            opacity: 0.75;
+            transition: opacity ease 250ms;
+        }
+
+            .slider-nav a:hover {
+                opacity: 1;
+            }
+    /* Columns */
+    .left-column {
+        width: 55%;
+        position: relative;
+    }
+
+    .right-column {
+        padding-left: 20px;
+        width: 45%;
+    }
+    /* Left Column */
+    .left-column img {
+        width: 60%;
+        position: absolute;
+        left: 0;
+        top: 0;
+        opacity: 0;
+        transition: all 0.3s ease;
+    }
+
+        .left-column img.active {
+            opacity: 1;
+        }
+
+    /* Product Description */
+    .product-description {
+        border-bottom: 1px solid #E1E8EE;
+        margin-bottom: 20px;
+    }
+
+        .product-description span {
+            font-size: 12px;
+            color: #358ED7;
+            letter-spacing: 1px;
+            text-transform: uppercase;
+            text-decoration: none;
+        }
+
+        .product-description h1 {
+            font-weight: 300;
+            font-size: 52px;
+            color: #43484D;
+            letter-spacing: -2px;
+        }
+
+        .product-description p {
+            font-size: 16px;
+            font-weight: 300;
+            color: #86939E;
+            line-height: 24px;
+        }
+
+    /* Product Color */
+    .product-color {
+        margin-bottom: 30px;
+    }
+
+    .color-choose div {
+        display: inline-block;
+    }
+
+/*     .color-choose input[type="radio"] {
+        display: none;
+    } */
+
+        .color-choose label span {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            margin: -1px 4px 0 0;
+            vertical-align: middle;
+            cursor: pointer;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
+            box-shadow: 0 1px 3px 0 rgba(0,0,0,0.33);
+        }
+
+        .color-choose label span {
+            background-color:;
+        }
+
+
+        .color-choose label:active,
+        .color-choose label:active,
+        .color-choose label:focus, span {
+            background-image: url(~/wwwroot/Images/check-icn.svg);
+            background-repeat: no-repeat;
+            background-position: center;
+        }
+
+    /* size Configuration */
+    .size-choose {
+        margin-bottom: 20px;
+    }
+
+        .size-choose button {
+            border: 2px solid #E1E8EE;
+            border-radius: 6px;
+            padding: 13px 20px;
+            font-size: 14px;
+            color: #5E6977;
+            background-color: #fff;
+            cursor: pointer;
+            transition: all .5s;
+        }
+
+            .size-choose button:hover,
+            .size-choose button:active,
+            .size-choose button:checked,
+            .size-choose button:focus {
+                border: 2px solid #86939E;
+                outline: none;
+            }
+
+    .size-config {
+        border-bottom: 1px solid #E1E8EE;
+        margin-bottom: 20px;
+    }
+
+        .size-config a {
+            color: #358ED7;
+            text-decoration: none;
+            font-size: 12px;
+            position: relative;
+            margin: 10px 0;
+            display: inline-block;
+        }
+
+            .size-config a:before {
+                content: "?";
+                height: 15px;
+                width: 15px;
+                border-radius: 50%;
+                border: 2px solid rgba(53, 142, 215, 0.5);
+                display: inline-block;
+                text-align: center;
+                line-height: 16px;
+                opacity: 0.5;
+                margin-right: 5px;
+            }
+    /* Product Price */
+    .product-price {
+        display: flex;
+        align-items: center;
+    }
+
+        .product-price span {
+            font-size: 26px;
+            font-weight: 300;
+            color: #43474D;
+            margin-right: 20px;
+        }
+
+        .product-price p {
+            font-size: 26px;
+            font-weight: 300;
+            color: #43474D;
+            margin-right: 20px;
+        }
+
+    .cart-btn {
+        display: inline-block;
+        background-color: black;
+        border-radius: 6px;
+        font-size: 16px;
+        color: #FFFFFF;
+        text-decoration: none;
+        padding: 12px 30px;
+        transition: all .5s;
+    }
+
+        .cart-btn:hover {
+            background-color: #262626;
+            text-decoration-color: #FAF9F6;
+        }
+
+</style>
+
+<div class="container">
+    @{
+        foreach (var item in Model)
+        {
+           
+            var s = item.KichThuoc;
+            var size = s.Split(", ");
+            var c = item.MauSac;
+            var itemcolors = c.Split(", ");
+
+
+                                                                <div class="slider-wrapper">
+                                                                    <div class="slider">
+                                                                        <img id="slide-1" src="/Images/product-image/@item.Hinh1" />
+                                                                        <img id="slide-2"  src="/Images/product-image/@item.Hinh1" />
+                                                                        <img id="slide-3" src="/Images/product-image/@item.Hinh1" />
+                                                                    </div>
+                                                                    <div class="slider-nav">
+                                                                        <a href="#slide-1"></a>
+                                                                        <a href="#slide-2"></a>
+                                                                        <a href="#slide-3"></a>
+                                                                    </div>
+                                                                </div>
+
+                                                                <!-- Right Column -->
+                                                                <div class="right-column">
+                                                                    
+                                                                    <!-- Product Description -->
+                                                                    <div class="product-description">
+                                                                        <h1>@item.TenSanPham</h1>
+
+                                                                        <p>@item.MoTa</p>
+                                                                    </div>
+
+                                                                    <div class="product-configuration">
+                                                                         <div class="product-color">
+                                                                            <span>Color</span>
+                                                                            <div class="color-choose" >
+                                                                            <div>
+                                                                                <input type="radio" id="@itemcolors[0].ToString()" name="colors" value="@itemcolors[0].ToString()" checked>
+                                                                                <label for="red"><span style="background-color: @itemcolors[0].ToString()"></span></label>
+                                                                            </div>
+                                                                                    @for (int i = 1; i < itemcolors.Length;i++)
+                                                    {
+                                                                                        <div>
+                                                                                            <input  type="radio" id="@itemcolors[i].ToString()" name="colors" value="@itemcolors[i].ToString()">
+                                                                                            <label for="red"><span style="background-color: @itemcolors[i].ToString()"></span></label>
+                                                                                        </div>
+                                                    }
+                                                                            </div>
+                                                                        </div>
+                                                                        <!-- size Configuration -->
+                                                                        <div class="size-config">
+                                                                            <span>Những có sẵn</span>
+                                                                            <div class="size-choose">
+                                                                                @for(int i = 0; i< size.Length;i++)
+                                                    {
+                                                                                    <button id="size" name ="size"  value="@size[i].ToString()">@size[i].ToString()</button>
+                                                    }
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+
+                                                                    <!-- Product Pricing -->
+                                                                    <form id="Default">
+                                                                    <div class="product-price">
+                                                                        <input name="donGia" id="donGia" value="@item.GiaBan" hidden="hidden">
+                                                                        <input name="maSP" id="maSP" value="@item.MaSP" hidden="hidden">    
+                                                                        <input name="maKH" id="maKH" value="@sessionCustomer" hidden="hidden">
+                                                                        <input name="mauSac" id="mauSac" value="" hidden="hidden">
+                                                                        <input name="size" id="selectedSize" value="" hidden="hidden">
+                                                                        <span>@item.GiaBan VND</span>
+                                                                      @if (sessionCustomer != null)
+                                                                        {
+                                                                             <button asp-action="addToCart" formmethod="post" type="submit" onclick="displayRadioValue()" class="cart-btn">Thêm vào giỏ hàng</button>
+                                                                        }
+                                                                     
+                                                                        
+                                                                    </div>
+                                                                    </form>
+                                                                      @if (sessionCustomer == null)
+                                                                        {
+                                                                                 <a id="sendUrl" href="#">
+                                                                                        <div class="px-\[10px\] inline-block bg-gray-800" onclick="sendCurrentUrl()">Đăng nhập để mua hàng</div>
+                                                                                    </a>
+         
+                                                                           
+                                                                        }
+                                                                </div> 
+        }
+
+                             <script>
+                                        function displayRadioValue() {
+                                            var selectedColor = document.querySelector('input[name ="colors"]:checked');
+                                            if (selectedColor) {
+                                                var selectedColorValue = selectedColor.value;
+                                                document.getElementById('mauSac').value = selectedColorValue;
+                                                document.getElementById('Default').submit();
+                                            }
+                                        }
+                                        var sizeButtons = document.querySelectorAll('.size-choose button');
+
+                                        sizeButtons.forEach(button => {
+                                            button.addEventListener('click', function () {
+                                                var selectedSizeValue = button.value;
+                                                document.getElementById('selectedSize').value = selectedSizeValue;
+                                            });
+                                        });
+
+
+                                       function sendCurrentUrl() {
+                                        var currentUrl = window.location.href;
+                                        var loginUrl = "@Url.Action("Login", "Account")?currentUrl=" + encodeURIComponent(currentUrl);
+                                        window.location.href = loginUrl;
+                                    }
+
+                                    </script>
+        
+    }
+    
+</div>

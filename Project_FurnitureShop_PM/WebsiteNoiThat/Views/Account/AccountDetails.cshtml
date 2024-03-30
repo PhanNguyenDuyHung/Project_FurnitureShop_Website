@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "AccountDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var sessionCustomer = ViewContext.HttpContext.Session.GetString("IDCustomer");
+}
+
+<div class="d-flex">
+    <div>
+        <partial name="~/Views/Giohang/SideBar.cshtml" />
+    </div>
+@{
+    if (Model != null)
+    {
+        <div>@await Component.InvokeAsync("AccountDetail",new {makh = Convert.ToInt32(sessionCustomer)});    </div>
+        
+    }
+    else
+    {
+        <p>Trích xuất thông tin  khách hàng thất bại</p>
+    }
+}
+</div>

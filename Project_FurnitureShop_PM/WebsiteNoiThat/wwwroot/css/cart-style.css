@@ -1,0 +1,305 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+:root{
+    --white: #fff;
+    --light: #eeeded;
+    --orange: #FFA16C;
+    --dark: #000000;
+    --gray: #555;
+    --blue: #007bff;
+}
+*{box-sizing: border-box;}
+html, body {
+    overflow: auto;
+}
+  
+body{
+    background-color: var(--dark);
+    font-family: system-ui;
+    overflow: hidden;
+}
+.container{
+    width:1447px;
+    border:1px solid var(--white);
+    max-width: 100%;
+    margin:10px auto 0;
+    display: grid;
+    grid-template-columns: 209px auto;
+    padding:20px;
+    border-radius: 10px;
+    min-height: 90vh;
+}
+.container .menu{
+    background-color: var(--white);
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.container .cart{
+    background-color: var(--white);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.container .center{
+    background-color: var(--light);
+    border-left: 1px solid var(--light);
+    border-right: 1px solid var(--light);
+}
+/* menu */
+.menu .logo{
+    padding:20px;
+    font-family: 'Lobster', cursive;
+    font-size: xx-large;
+    height:40px;
+}
+.menu .logo span{
+    color: var(--gray);
+}
+.menu ul{
+    padding:20px 0 20px 20px;
+    list-style: none;
+    border-bottom: 1px solid var(--light);
+}
+.menu ul li{
+    padding:10px 0;
+}
+.menu ul li i{
+    margin-right: 12px;
+}
+.menu ul li.active{
+    color: var(--blue);
+    border-right: 2px solid var(--blue);
+}
+.menu ul li:hover{
+    color: var(--blue);
+    border-right: 2px solid var(--blue);
+}
+/* end menu */
+/* center */
+    /* form */
+    .center .search{
+        background-color: var(--white);
+        padding:20px;
+        height:40px;
+    }
+    .center .search .form{
+        width:max-content;
+        border:1px solid var(--light);
+        border-radius: 20px;
+        padding-left:15px;
+        color:var(--dark);
+    }
+    .center .search .form input{
+        border:none;
+        padding:0 10px;
+        outline: none;
+        width:100px;
+    }
+    .center .search .form button{
+       border:none;
+       background-color: var(--blue);
+       color: var(--light);
+       padding:10px 20px;
+       border-radius: 20px;
+    }
+    
+        /* end form */
+    
+    
+    
+    
+    .center h2{
+        padding:20px;
+    }
+    .center .list{
+        padding:0 20px 20px;
+        display: grid;
+        grid-template-columns: auto auto;
+        column-gap: 20px;
+        row-gap: 20px;
+    }
+    .item{
+        background-color: var(--white);
+        display: grid;
+        grid-template-columns: 40% auto;
+        padding:10px;
+        column-gap: 20px;
+        border-radius: 20px;
+    }
+    .item .img img{
+        height:70px;
+    }
+    .item .img{
+        background-color: var(--white);
+        border-radius: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .item .content .title{
+        font-weight: bold;
+    }
+    .item .content .des{
+        font-size: small;
+        opacity: 0.7;
+        margin-top:5px;
+    }
+    .color{
+        font-size: small;
+        opacity: 0.7;
+        margin-top:5px;
+    }
+    
+    .size{
+        font-size: small;
+        opacity: 0.7;
+        margin-top:5px;
+    }
+    
+    .item .content .price{
+        color:var(--blue);
+        letter-spacing: 2px;
+        font-weight: 500;
+        font-size: small;
+        margin-top:5px;
+    }
+    .item .count{
+        width: 50px;
+        border-radius: 10px;
+        margin-right: 10px;
+        padding:3px 5px;
+        border:1px solid var(--light);
+        outline: none;
+         margin-top:5px;
+    }
+    .item .content .add{
+        margin-top:5px;
+        background-color: var(--blue);
+        color:var(--white);
+        padding:5px 10px;
+        border:none;
+        border-radius: 10px;
+    }
+    .item .content .remove{
+        padding:5px;
+        border:none;
+        margin-top:5px;
+        border-radius: 10px;
+        display: none;
+    }
+    
+    /* end center */
+    .cart .item{
+        transition: 0.5s;
+        border-bottom: 3px solid var(--light);
+    }
+    .cart .name{
+        padding:20px;
+        margin-left: 20px;
+        height:40px;
+        font-weight: bold;
+        font-size: xx-large;
+        border-bottom:1px solid var(--light)
+    }
+    .danger{
+        box-shadow: 0 10px 10px var(--blue);
+        transform: translate(0,-10px);
+    }
+    .cart .add{
+        display: none;
+    }
+    .cart .remove{
+        display: inline-block!important;
+    }
+
+
+/* new */
+.cart-list{
+    padding:0 4px;
+}
+.item-table{
+    width:100%;
+    border: none !important;
+    border-spacing:0; /* Removes the cell spacing via CSS */ 
+     border-collapse: collapse;
+     background-color: white;
+   }
+td{
+    text-align: center;
+}
+tr{
+    border-top: thin solid rgb(189, 189, 189);
+    border-bottom: thin solid rgb(189, 189, 189);
+    border-radius: 5px;
+}
+
+.check-col{
+    max-width: 20px;
+}
+
+.item-row{
+    margin-top: 8px;
+    background-color: white;
+}
+.item-detail{
+    display: flex;
+    max-width: 400px;
+    align-items: center;
+}
+
+.item-img{
+    width: 150px;
+    margin-right: 4px;
+}
+.item-properties{
+    padding: 8px;
+    max-width: 200px;
+    text-align: left;
+}
+.box-quantity{
+    
+    display: flex;
+    justify-content: center;
+}
+.count{
+    width:40px;
+    height: 40px;
+    outline: none !important;
+    text-align: center;
+    border: none;
+    border-top: 0.5px solid rgb(167, 167, 167);
+    border-bottom: 0.5px solid rgb(167, 167, 167);
+}
+.btn-quantity{
+    background-color: white;
+    border: 0.5px solid rgb(167, 167, 167);
+    width:40px;
+    height: 40px;
+
+}
+.remove{
+    margin: auto;
+}
+.item-total-price-value{
+    margin: auto;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+  -moz-appearance: textfield;
+}
+input:focus{
+    outline: none;
+}
+
+.checkout{
+   border: none;
+}
+#checkout{
+    margin-right: 8px;
+}
+/* end */

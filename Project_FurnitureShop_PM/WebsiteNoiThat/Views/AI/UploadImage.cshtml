@@ -1,0 +1,23 @@
+﻿@model IEnumerable<WebsiteNoiThat.Models.SanPham>
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+	    @if (TempData["SuccessMessage"] != null)
+{
+    <div class="alert alert-success">
+        @TempData["SuccessMessage"]
+    </div>
+}
+
+}
+
+@foreach (var item in Model)
+{
+	if (Model != null && Model.Any() && item.MaSP != null)
+	{
+		// Gọi thành phần giao diện và truyền categoryId
+		@await Component.InvokeAsync("ProductDetail", new { masp = item.MaSP })
+	}
+}

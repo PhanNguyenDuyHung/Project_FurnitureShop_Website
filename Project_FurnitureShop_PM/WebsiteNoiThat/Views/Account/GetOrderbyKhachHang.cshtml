@@ -1,0 +1,85 @@
+﻿@using System.Globalization
+@model IEnumerable<WebsiteNoiThat.Models.DonHangg>
+
+@{
+    ViewData["Title"] = "GetOrderByKhachHang";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    var sessionCustomer = ViewContext.HttpContext.Session.GetString("IDCustomer");
+    decimal totalSum = 0;
+
+}
+<style>
+    body {
+        background: #eee;
+        font-family: Assistant, sans-serif;
+    }
+
+    .cell-1 {
+        border-collapse: separate;
+        border-spacing: 0 4em;
+        border-bottom: 5px solid transparent;
+        background-clip: padding-box;
+    }
+
+    thead {
+        background: #dddcdc;
+    }
+
+
+
+</style>
+<div class="d-flex">
+    <div>
+        <partial name="~/Views/Giohang/SideBar.cshtml" />
+    </div>
+
+
+<div class=" mt-15 bg-white w-full px-[10px]">
+    <div class="justify-content-center ">
+        <div class="">
+            <div class="rounded">
+                <div class="table-responsive table-borderless">
+                    @if (Model.Any()) 
+                    {
+                        string lastMaDH = null; <!-- Biến để lưu trữ MaDH cuối cùng -->
+                        foreach (DonHangg item in Model.OrderBy(m => m.MaDH))
+                        {
+                            if (lastMaDH != item.MaDH.ToString()) 
+                            {   totalSum = 0; 
+                                <div class="infor bg-black text-white"> ID: @item.MaDH | @item.NgayTao | <span class="px-\[10px\] bg-red-500"> @item.TinhTrang</span> |</div>
+                                <ul class="products flex bg-gray-50 w-full">
+                                    <li class="w-[200px]">   Sản phẩm </li>
+                                    <li class="w-[200px]"> Số lượng</li>
+                                    <li class="w-[200px]">Phân loại</li>
+                                    <li class="w-[200px]">Đơn giá</li>
+                                    <li class="w-[200px]"> Thành tiền</li>
+                            </ul>
+                                lastMaDH = item.MaDH.ToString(); 
+                            }
+
+                            <ul class="products flex w-full">
+                                <li class="w-[200px]">   @item.TenSanPham </li>
+                                <li class="w-[200px]"> @item.SoLuong</li>
+                                <li class="px-[10px] w-[190px]"> @item.KichCo <br> @item.MauSac</li>
+                                <li class="w-[200px]">@{
+                                    var formattedDonGia = item.DonGia.ToString("C", new CultureInfo("vi-VN"));
+                                }
+                                @formattedDonGia</li>
+                                <li class="w-[200px]">@{var formattedAmount = item.ThanhTien.ToString("C", new CultureInfo("vi-VN")); } @formattedAmount</li>
+                                
+                            </ul>
+                            <span>Tổng đơn hàng: @{ totalSum += item.ThanhTien;var formattedSum = totalSum.ToString("C", new CultureInfo("vi-VN")); }   @formattedSum </span>
+                        }
+                    }
+                    else
+                    {
+                        <p>Không có đơn hàng.</p>
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+</div>
+

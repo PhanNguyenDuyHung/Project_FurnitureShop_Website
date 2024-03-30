@@ -1,0 +1,177 @@
+﻿﻿@using System.Globalization;
+@model IEnumerable<WebsiteNoiThat.Models.ChitietGH>
+@using Microsoft.AspNetCore.Http;
+@{
+    var sessionCustomer = ViewContext.HttpContext.Session.GetString("IDCustomer");
+
+}
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<style>
+    .fa-solid {
+        margin-right: 16px;
+    }
+
+    .item-group-header {
+        margin-top: 0.5rem !important;
+        margin-bottom: 0.5rem !important;
+    }
+</style>
+<div class="d-flex">
+    <partial name="~/Views/Giohang/SideBar.cshtml" />
+
+    <div class="cart-container col-10">
+        <h1>GIỎ HÀNG</h1>
+        @if (Model.Count() == 0)
+        {
+            <p>Giỏ hàng trống</p>
+        }
+        else
+        {
+            <table class="item-table">
+                <thead>
+                    <tr style="background-color: black;color: white; font-weight: bold;">
+                        <td style="width:10px;"><input onchange="onSelectAllChange()" class="select-box" id="select-all" name="select-all" type="checkbox" /></td>
+                        <td>Sản phẩm</td>
+                        <td>Chi tiết</td>
+                        <td>Đơn giá</td>
+                        <td>Số lượng</td>
+                        <td>Số tiền</td>
+                        <td>Thao tác</td>
+                    </tr>
+                </thead>
+
+                <tbody id="tbl-cart">
+                    @foreach (var item in Model)
+                    {
+
+
+                        <tr class="item-row">
+                            <td class="check-col">
+                                <input onchange="onSelectChange(@item.MACTGH)" class="select-box" id="select-item-@item.MACTGH" name="select-item-@item.MACTGH" type="checkbox" />
+                            </td>
+                            <td class="item-detail">
+                                <img id="item-img-@item.MACTGH" class="item-img" src="/Images/product-image/@item.Hinh1" alt="">
+                                <div clas="item-content">
+                                    <div id="item-name-@item.MACTGH" class="title">@item.TenSP</div>
+                                    <div class="visually-hidden" id="item-masp-@item.MACTGH">@item.MaSP</div>
+                                </div>
+
+                            </td>
+                            <td class="item-properties">
+                                <div class="color">
+                                    Màu sắc: <span id="item-color-@item.MACTGH">@item.Mausac</span>
+
+                                </div>
+                                <div class="color">
+                                    Kích thước: <span id="item-size-@item.MACTGH">@item.Kichthuoc</span>
+
+                                </div>
+                            </td>
+                            <td class="item-price">
+                                <span class="item-price" id="price-number-@item.MACTGH">@item.Dongia</span> VND
+                            </td>
+                            <td class="item-quantity">
+
+                                <div class="box-quantity">
+
+                                    <button class="btn-quantity" onclick="addNumber(-1, @item.MACTGH)">-</button>
+                                    <input id="item-quantity-value-@item.MACTGH" type="number" class="count" min="1" max="@item.Soluongton" value="@item.Soluong">
+                                    <button class="btn-quantity" onclick="addNumber(+1,@item.MACTGH)">+</button>
+                                </div>
+
+
+
+                            </td>
+                            <td class="item-total-price">
+
+                                <span class="item-price item-price-total" id="item-total-price-@item.MACTGH">@item.Thanhtien</span> VND
+
+                            </td>
+                            <td class="item-action">
+                                <a class="btn remove" href="@Url.Action("delete", "giohang", new {idKH=@sessionCustomer, mactgh=item.MACTGH})">
+                                    <i class="fa-solid fa-trash-can"></i>
+                                </a>
+                            </td>
+                        </tr>
+
+                        <!--  -->
+                    }
+                    <tr class="summary">
+                        <td style="font-weight: bold; text-align: right;" colspan="7">Tổng tiền: <span id="total">0</span> VND</td>
+                    </tr>
+                </tbody>
+
+
+                <tr class="checkout">
+                    <td colspan="7"><button style="margin-top: 4px;" onclick="openModal()" class="btn btn-primary" id="checkout">Thanh toán</button></td>
+                </tr>
+            </table>
+        }
+        <div class="modal" id="checkout-modal" tabindex="-1" role="dialog">
+            <div class="modal-dialog modal-lg" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">Xác nhận đặt hàng</h5>
+                        <button onclick="closeModal()" type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div style="width:auto; padding-left:4px; padding-right:4px;">
+                        <table class="item-table">
+                            <thead>
+                                <tr style="background-color: black;color: white; font-weight: bold;">
+
+                                    <td>Sản phẩm</td>
+                                    <td>Chi tiết</td>
+                                    <td>Số lượng</td>
+                                    <td>Thành tiền</td>
+                                </tr>
+                            </thead>
+
+                            <tbody id="order-table">
+
+
+                                <!--  -->
+
+
+                            </tbody>
+
+
+
+                        </table>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" onclick="checkout(@sessionCustomer)" class="btn btn-primary">Đặt hàng</button>
+                        <button type="button" onclick="closeModal()" class="btn btn-warning" data-dismiss="modal">Hủy</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!--modal check so luong-->
+        <div class="modal fade" id="overcount" tabindex="-1" aria-labelledby="exampleModalLabel"
+             aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="exampleModalLabel">Thông báo</h5>
+                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    </div>
+                    <div id="deleteSampleName" class="modal-body">
+                        Số lượng vướt quá tồn kho!
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-primary" data-dismiss="modal">OK</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+

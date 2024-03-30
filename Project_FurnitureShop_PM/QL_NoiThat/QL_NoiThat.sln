@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QL_NoiThat", "QL_NoiThat\QL_NoiThat.csproj", "{0DF63C22-A477-4759-90C9-7F748120D54C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FurnitureStore_API_PM", "..\Project_FurnitureShop_PM\Project_FurnitureShop_PM\FurnitureStore_API_PM\FurnitureStore_API_PM.csproj", "{DAAE50FB-3136-4C4B-B7D4-7D5D8FE6D77F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DF63C22-A477-4759-90C9-7F748120D54C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DF63C22-A477-4759-90C9-7F748120D54C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DF63C22-A477-4759-90C9-7F748120D54C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DF63C22-A477-4759-90C9-7F748120D54C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAAE50FB-3136-4C4B-B7D4-7D5D8FE6D77F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAAE50FB-3136-4C4B-B7D4-7D5D8FE6D77F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAAE50FB-3136-4C4B-B7D4-7D5D8FE6D77F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAAE50FB-3136-4C4B-B7D4-7D5D8FE6D77F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F5D2260E-B9AB-4A3D-999D-645766E55F61}
+	EndGlobalSection
+EndGlobal
